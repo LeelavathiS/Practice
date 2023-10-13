@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    text-align: center;
+    max-width: 50%;
+    margin:  0% 0% 0% 25%;
+   
+
+}
+fieldset
+{
+    color: rgb(101, 103, 197);
+    background-color: rgb(199, 241, 190);
+}
+legend
+{
+    padding: auto;
+    color: rgb(207, 21, 21);
+    font-size:x-large;
+    border: 50%;
+    text-transform: capitalize;
+  font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+   
+}
+form:focus-visible
+{
+
+    text-align: center;
+    color: rgb(59, 10, 150);
+}
+input[type="submit"]
+{
+cursor:pointer;
+ color: brown;
+ font-size: large;
+}
+input[type="reset"]
+{
+cursor:pointer;
+ color: brown;
+ font-size: large;
+}
+label
+{
+    
+    margin: auto;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
